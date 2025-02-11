@@ -1,0 +1,16 @@
+{
+  "layout.category": "دسته بندی",
+  "layout.catalog": "کاتالوگ",
+  "layout.specification": "ویژگی محصولات",
+  "layout.productManagement": "مدیریت محصولات",
+  "layout.partyManagment": "مدیریت حساب مشترکین",
+  "layout.individualParty": "اشخاص حقیقی",
+  "layout.organizationParty": "اشخاص  حقوقی",
+  "layout.registration": "ثبت نام",
+  "layout.logout": "خروج",
+  "layout.productOfferingPrice": "قیمت پیشنهادی",
+  "layout.productOffering": "محصولات پیشنهادی",
+  "layout.orderManagement": "مدیریت سفارشات",
+  "layout.inventory": "انبار محصولات",
+  "layout.statistic": "آمار"
+}

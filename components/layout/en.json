@@ -1,0 +1,16 @@
+{
+  "layout.category": "Category",
+  "layout.catalog": "Catalog",
+  "layout.specification": "Specification",
+  "layout.productManagement": "Product Management",
+  "layout.partyManagment": "Party Management",
+  "layout.individualParty": "Individual Party",
+  "layout.organizationParty": "Organization Party",
+  "layout.registration": "Registration",
+  "layout.logout": "Log Out",
+  "layout.productOfferingPrice": "Price Offering",
+  "layout.productOffering": "Product Offering",
+  "layout.orderManagement": "Order Management" ,
+  "layout.inventory": "Inventory",
+  "layout.statistic": "Statistic"
+}
